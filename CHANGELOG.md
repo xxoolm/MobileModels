@@ -1,4 +1,47 @@
 # 更新日志
+## 2024-08-07
+- `zte` 新增 中兴 V80。
+## 2024-08-06
+- `huawei_cn` 新增 HUAWEI MatePad Pro 12.2, MatePad Air 12。
+- `xiaomi` 新增 Redmi Pad SE 8.7。
+## 2024-08-05
+- `zhixuan` 新增 Hi 畅享 70m。
+## 2024-08-02
+- `huawei_cn` 新增 HUAWEI MateBook GT 14。
+## 2024-07-29
+- `huawei_cn` 新增 nova Flip；增补部分代号。
+- `meizu` 新增 魅族 Note 21 (海外), MBLU。
+## 2024-07-27
+- `lenovo` 新增 联想小新 Pad Pro 12.7 2025。
+## 2024-07-26
+- `huawei_cn` 新增 华为智慧屏 S5 Pro。
+## 2024-07-21
+- `huawei_cn` 新增 HUAWEI MatePad 11.5S 标准版。
+## 2024-07-19
+- `xiaomi-wear` 新增 小米手环 9, Xiaomi Watch S4 Sport。
+## 2024-07-18
+- `nubia` 新增 努比亚 Z60S Pro。
+## 2024-07-16
+- `honor_cn` 新增 荣耀 X60i。
+- `meizu` 新增 魅蓝 20。
+## 2024-07-15
+- `letv` 新增 Letv S3 Pro。
+- `vivo_cn` 新增 vivo Y37。
+## 2024-07-14
+- `samsung_cn` 新增 Galaxy Z Fold6, Flip6, Watch7, Watch Ultra。
+## 2024-07-12
+- `honor_cn` 新增 荣耀 Magic V3, Vs3, MagicPad 2, MagicBook Art 14。
+## 2024-07-11
+- `huawei_cn` 新增 华为擎云新款平板。
+- `zhixuan` 新增 麦芒 30。
+## 2024-07-09
+- `coolpad` 新增 酷派 COOL 50。
+## 2024-07-05
+- `xiaomi` 新增 Xiaomi MIX Flip, 增补代号。
+- `zte` 新增 中兴小鲜 60。
+## 2024-07-04
+- `realme_cn` 新增 真我 GT6。
+- `vivo_cn` 新增 iQOO Neo9S Pro+。
 ## 2024-07-03
 - `nothing` 新增 CMF Phone 1。
 - `nubia` 新增 红魔 9S Pro, nubia Pad 3D II。
